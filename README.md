@@ -29,7 +29,7 @@ Soy un entusiasta del desarrollo de software, con experiencia en el trabajo con 
 Si estás interesado en colaborar en proyectos emocionantes o quieres conectarte, aquí te dejo mis datos de contacto:
 
 - **Correo Electrónico**: afvv26002@gmail.com
-- **LinkedIn**: [Adrián Fernández-Vaillo Villegas en LinkedIn](#)
+- **LinkedIn**: [[Adrián Fernández-Vaillo Villegas en LinkedIn](https://www.linkedin.com/feed/)](#)
 - **GitHub**: [Perfil de GitHub](#)
 
 ¡Espero tener la oportunidad de colaborar juntos en el futuro!
