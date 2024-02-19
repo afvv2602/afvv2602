@@ -20,16 +20,16 @@ Soy un entusiasta del desarrollo de software, con experiencia en el trabajo con 
 
 ### Habilidades Técnicas
 
-- Lenguajes de Programación: Java, C#, JavaScript, Python.
+- Lenguajes de Programación: Java, C#, JavaScript, Python, C.
 - Desarrollo de Aplicaciones: Unity, Xamarin, .NET, Firebase, Tensorflow.
-- Herramientas de Control de Versiones: Git.
+- Herramientas de Control de Versiones: Git, Atlassian.
 
 ### Contacto
 
 Si estás interesado en colaborar en proyectos emocionantes o quieres conectarte, aquí te dejo mis datos de contacto:
 
 - **Correo Electrónico**: afvv26002@gmail.com
-- **LinkedIn**: [[Adrián Fernández-Vaillo Villegas en LinkedIn](https://www.linkedin.com/feed/)](#)
-- **GitHub**: [Perfil de GitHub](#)
+- **LinkedIn**: [[Adrián Fernández-Vaillo Villegas en LinkedIn](https://www.linkedin.com/feed/)]
+- **GitHub**: [Perfil de GitHub](https://github.com/afvv2602)
 
 ¡Espero tener la oportunidad de colaborar juntos en el futuro!
